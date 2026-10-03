@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Libros",
+  "description": "Aplicación para el registro, control y seguimiento de lectura de libros con Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
